@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rafid_annafi6" target="blank"><img src="https://img.shields.io/twitter/follow/rafid_annafi6?logo=twitter&style=for-the-badge" alt="rafid_annafi6" /></a> </p>
 
-- 🔭 I’m currently working on **a mobile app!**
+- 🔭 I’m currently working on **Updating my skills**
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
-- 💬 Ask me about **Python, HTML5**
+- 💬 Ask me about **Python, HTML5 and Scratch**
 
 - 📫 Reach me on **rafidannafi6@outlook.com**
 
